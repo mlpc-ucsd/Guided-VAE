@@ -1,4 +1,4 @@
-# Guided variational Autoencoder for Disentanglement Learning (CVPR2020)
+# Guided variational Autoencoder for Disentanglement Learning
 
 Official Implementation for [Guided variational Autoencoder for Disentanglement Learning](https://arxiv.org/abs/2004.01255) (**CVPR2020**). This repo contains codes for the training and visualizing steps on MNIST and CelebA datasets in unsupervised way and supervised way respectively.
 
